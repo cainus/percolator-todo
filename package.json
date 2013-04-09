@@ -1,0 +1,26 @@
+{
+  "name": "percolator-todo",
+  "version": "0.0.0",
+  "description": "todomvc with a Percolator backend",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cainus/percolator-todo.git"
+  },
+  "keywords": [
+    "percolator",
+    "todo",
+    "todomvc",
+    "rest",
+    "hypermedia"
+  ],
+  "author": "Gregg Caines",
+  "license": "BSD",
+  "dependencies": {
+    "Percolator": "~1.0.6"
+  }
+}
